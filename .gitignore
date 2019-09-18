@@ -2,3 +2,5 @@
 *.jugdata/
 /.tmp/
 /logs/
+/2021_train*/
+/2021_valid/
